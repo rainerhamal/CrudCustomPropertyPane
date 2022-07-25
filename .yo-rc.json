@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.14.0",
+    "libraryName": "crud-property-pane",
+    "libraryId": "61d72abd-1d22-4507-a32e-f8ac3928d4ca",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "CrudPropertyPane",
+    "solutionShortDescription": "CrudPropertyPane description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

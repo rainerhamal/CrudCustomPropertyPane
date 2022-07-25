@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "crud-property-pane-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/crudPropertyPane/CrudPropertyPaneWebPart.js",
+          "manifest": "./src/webparts/crudPropertyPane/CrudPropertyPaneWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "CrudPropertyPaneWebPartStrings": "lib/webparts/crudPropertyPane/loc/{locale}.js"
+  }
+}
